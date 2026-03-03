@@ -2,5 +2,8 @@
 
 src/ @SimplyRin
 
+owner/ @PegSaba/owner
+admin/ @PegSaba/admin
+
 *.md @SimplyRin
 *.js @SimplyRin
